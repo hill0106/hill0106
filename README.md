@@ -2,7 +2,7 @@
 
 - 👩🏻 I’m a senior student in NCU and major in CS. 
 - 🇹🇼 Taoyuan, Taiwan
-- 📫 How to reach me: trinity@g.ncu.edu.tw
+- 📫 How to reach me: mengjuchiu6.gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hill0106)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hill0106)
