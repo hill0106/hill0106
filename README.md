@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👩🏻 I’m a senior student in NCU and major in CS. 
-- 🇹🇼 Taoyuan, Taiwan
+- 👩🏻 I’m a recent graduate from NCU and major in CS. 
+- 🇹🇼 Taipei, Taiwan
 - 📫 How to reach me: mengjuchiu6.gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hill0106)
