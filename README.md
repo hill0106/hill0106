@@ -6,7 +6,8 @@
 
   My technical expertise includes C++, JavaScript, Python, SQL, and MongoDB, with experience in full-stack web development and data analysis. Proficient in project management tools like Jira and familiar with Agile and Scrum methodologies, I effectively manage timelines, resources, and stakeholder expectations. 
 - 📍 Los Angeles, CA
-- 📫 How to reach me: mengjuchiu6.gmail.com
+- 📫 How to reach me: mengjuchiu6.gmail.com |
+- My Porfolio Website: ![](https://trinitychiuportfolio.azurewebsites.net/#)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hill0106)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hill0106)
